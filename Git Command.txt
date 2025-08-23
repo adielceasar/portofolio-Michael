@@ -1,0 +1,7 @@
+1 Save :
+- git add .
+- git commit -m "pesan commit"
+-git push -u origin main
+
+2. Clone project : 
+git clone [git hub repo url]
